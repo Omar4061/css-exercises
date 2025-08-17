@@ -1,7 +1,6 @@
 .oddNumbers{
     background-color: rgba(255, 118, 118, 0.411);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-family: DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #secondElement{
